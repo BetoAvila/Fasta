@@ -11,7 +11,7 @@ setuptools.setup(
     description="Class (named Fasta) to manipulate DNA sequences from .fasta files",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/BetoAvila/Fasta",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
