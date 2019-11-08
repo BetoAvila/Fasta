@@ -3,7 +3,7 @@ from Fasta import Fasta
 print('\nHey, this is my Fasta class library!\nThanks for letting me participate!\n')
 
 # Initial data input
-path = ['C:/Git/Repos/Fasta/example.fasta']
+path = ['Here/There/example.fasta']
 f_inst = Fasta(path)
 print('Here are some data of current fasta sequence:')
 print(
