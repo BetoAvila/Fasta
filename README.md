@@ -2,7 +2,8 @@
 
 This class allows to manipulate DNA sequences data.
 It is designed to display, add and remove sequences as decribed in class' docstring.
-Made by Alberto Avila Garcia on Nov 8, 2019 Ciudad de Mexico.
+This library uses OOP to define and manipulate DNA sequences, classes, methods, constructors, etc.
+Made by Alberto Avila Garcia on Nov 8, 2019.
 
 ## Getting Started
 
